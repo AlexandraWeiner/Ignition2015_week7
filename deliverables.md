@@ -2,5 +2,5 @@
 - What is a variable?
 - What is a string? An array? A boolean?
 - What are events?
-- Link to codeacademy profile: 
+- Link to codeacademy profile:   http://www.codecademy.com/ajaxblaster46933
 - Code for Project Euler solution in file `project_euler_1.js`.
