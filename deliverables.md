@@ -1,5 +1,5 @@
 - What is a scripting language? 
-A scripting language is a way of executing a programming language. It is used to manipulate things independent and outside of the script. 
+  A scripting language is a way of executing a programming language. It is used to manipulate things independent and outside of the script. 
 
 - What is a variable? 
 Variables are containers for storing the values of identifiers. 
@@ -10,7 +10,7 @@ An index that stores a series of words/characters in quotations. Declared using 
 - An array?  
 Holds more than one value in a variable. This can be letters/words in quotes or numbers. 
 
-A boolean?  
+- A boolean?  
 A data type that returns one of two values. In Javascript, this is only true or false.  
 
 - What are events?  
