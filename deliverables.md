@@ -1,8 +1,8 @@
 - What is a scripting language? 
-  A scripting language is a way of executing a programming language. It is used to manipulate things independent and outside of the script. 
+A scripting language is a way of executing a programming language. It is used to manipulate things independent and outside of the script. 
 
 - What is a variable? 
-Variables are containers for storing the values of identifiers. 
+  Variables are containers for storing the values of identifiers. 
 
 - What is a string?  
 An index that stores a series of words/characters in quotations. Declared using var ""   
